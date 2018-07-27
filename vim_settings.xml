@@ -15,6 +15,9 @@
       <file name="/code.py" timestamp="1532648922624">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1532665434977">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1532614357218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,17 +26,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/titanic_survival_exploration.py" timestamp="1532615780757">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/titanic_survival_exploration.py" timestamp="1532665423259">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -41,10 +44,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlzcGxheShmdWxsX2RhdGEuaGVhZCgpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -56,7 +59,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">IyBQcmludCB0aGUgZmlyc3QgZmV3IGVudHJpZXMgb2YgdGhlIFJNUyBUaXRhbmljIGRhdGEK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnVsbF9kYXRhID0gcGQucmVhZF9jc3YoaW5fZmlsZSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW5fZmlsZSA9ICcvaG9tZS9lb3NvcmlvL1B5Y2hhcm1Qcm9qZWN0cy9ORU1ML3NvdXJjZXMvdGl0YW5pY19kYXRhLmNzdicK</text>
       </register>
     </registers>
     <search>
