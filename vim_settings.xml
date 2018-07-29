@@ -19,7 +19,7 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1532812490390">
+      <file name="/Python Console" timestamp="1532827013797">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532811920754">
@@ -45,28 +45,36 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/gapminder.py" timestamp="1532827012398">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/class_vis.py" timestamp="1532812467850">
         <mark key="[" line="59" column="11" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      <register name="1" type="4">
+        <text>import warnings
+warnings.filterwarnings(&quot;always&quot;)</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="65535" code="81" mods="130" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      <register name="&quot;" type="4">
+        <text>import warnings
+warnings.filterwarnings(&quot;always&quot;)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlzcGxheShmdWxsX2RhdGEuaGVhZCgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlzcGxheShmdWxsX2RhdGEuaGVhZCgpKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -75,16 +83,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBQcmludCB0aGUgZmlyc3QgZmV3IGVudHJpZXMgb2YgdGhlIFJNUyBUaXRhbmljIGRhdGEK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBQcmludCB0aGUgZmlyc3QgZmV3IGVudHJpZXMgb2YgdGhlIFJNUyBUaXRhbmljIGRhdGEK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVsbF9kYXRhID0gcGQucmVhZF9jc3YoaW5fZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5fZmlsZSA9ICcvaG9tZS9lb3NvcmlvL1B5Y2hhcm1Qcm9qZWN0cy9ORU1ML3NvdXJjZXMvdGl0YW5pY19kYXRhLmNzdicK</text>
+        <text encoding="base64">ZnVsbF9kYXRhID0gcGQucmVhZF9jc3YoaW5fZmlsZSkK</text>
       </register>
     </registers>
     <search>
