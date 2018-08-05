@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/PycharmProjects/gcloud_teste/pesquisa.py" timestamp="1531853379122">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1533430916109">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="111" />
-        <mark key="^" line="10" column="111" />
-        <mark key="." line="10" column="111" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1533433887542">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="46" column="17" />
+        <mark key="^" line="46" column="17" />
+        <mark key="." line="46" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1532831005102">
         <mark key="[" line="0" column="0" />
@@ -24,7 +24,7 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1533431742931">
+      <file name="/Python Console" timestamp="1533433863014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1532811920754">
@@ -54,9 +54,7 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>)
-#print(f)
-#print(io.StringIO(f))</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -64,22 +62,22 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>)
 #print(f)
 #print(io.StringIO(f))</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>import warnings
 warnings.filterwarnings(&quot;always&quot;)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGlzcGxheShmdWxsX2RhdGEuaGVhZCgpKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlzcGxheShmdWxsX2RhdGEuaGVhZCgpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -88,10 +86,10 @@ warnings.filterwarnings(&quot;always&quot;)</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBQcmludCB0aGUgZmlyc3QgZmV3IGVudHJpZXMgb2YgdGhlIFJNUyBUaXRhbmljIGRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBQcmludCB0aGUgZmlyc3QgZmV3IGVudHJpZXMgb2YgdGhlIFJNUyBUaXRhbmljIGRhdGEK</text>
       </register>
     </registers>
     <search>
