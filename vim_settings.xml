@@ -6,10 +6,16 @@
       <file name="$USER_HOME$/PycharmProjects/gcloud_teste/pesquisa.py" timestamp="1531853379122">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533602574820">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1533435493381">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535497295390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1532784733457">
+      <file name="/code.py" timestamp="1535497769835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Pandas.py" timestamp="1532807217637">
@@ -18,11 +24,17 @@
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1533602760980">
+      <file name="/Python Console" timestamp="1535497662819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1533598771147">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/teste-numpy.py" timestamp="1532806852474">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/NEML/sources/titanic/visuals.py" timestamp="1532614442202">
         <mark key="[" line="0" column="0" />
@@ -34,19 +46,6 @@
         <mark key="]" line="2" column="7" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1533435493381">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="44" column="17" />
-        <mark key="." line="44" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Naive Bayes Teoria.py" timestamp="1533599136240" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/teste-numpy.py" timestamp="1532806852474">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/class_vis.py" timestamp="1532812467850">
         <mark key="[" line="59" column="11" />
