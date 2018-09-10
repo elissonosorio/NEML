@@ -6,13 +6,13 @@
       <file name="$USER_HOME$/PycharmProjects/gcloud_teste/pesquisa.py" timestamp="1531853379122">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536585225084">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="51" column="17" />
-        <mark key="^" line="51" column="17" />
-        <mark key="." line="51" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536587487556">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535497295390">
+      <file name="/Dummy.txt" timestamp="1536586393989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1536584956762">
@@ -62,7 +62,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiMgc3BsaXQgaW50byB0cmFpbmluZyBhbmQgdGVzdGluZyBzZXRzCiMgVVNFIGZyb20gc2tsZWFybi5tb2RlbF9zZWxlY3Rpb24gaW1wb3J0IHRyYWluX3Rlc3Rfc3BsaXQgdG8gYXZvaWQgc2VlaW5nIGRlcHJlY2F0aW9uIHdhcm5pbmcuCiNmcm9tIHNrbGVhcm4uY3Jvc3NfdmFsaWRhdGlvbiBpbXBvcnQgdHJhaW5fdGVzdF9zcGxpdA==</text>
+        <text>display</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CmRvY3VtZW50cyA9IFsnSGVsbG8sIGhvdyBhcmUgeW91IScsCiAgICAgICAgICAgICAnV2luIG1vbmV5LCB3aW4gZnJvbSBob21lLicsCiAgICAgICAgICAgICAnQ2FsbCBtZSBub3cuJywKICAgICAgICAgICAgICdIZWxsbywgQ2FsbCBoZWxsbyB5b3UgdG9tb3Jyb3c/J10KY291bnRfdmVjdG9yID0gQ291bnRWZWN0b3JpemVyKCkKcHJpbnQoY291bnRfdmVjdG9yKQpjb3VudF92ZWN0b3IuZml0KGRvY3VtZW50cykKY291bnRfdmVjdG9yLmdldF9mZWF0dXJlX25hbWVzKCkKZG9jX2FycmF5ID0gY291bnRfdmVjdG9yLnRyYW5zZm9ybShkb2N1bWVudHMpLnRvYXJyYXkoKQpwcmludChkb2NfYXJyYXkpCgpmcmVxdWVuY3lfbWF0cml4ID0gcGQuRGF0YUZyYW1lKGRvY19hcnJheSxjb2x1bW5zPWNvdW50X3ZlY3Rvci5nZXRfZmVhdHVyZV9uYW1lcygpKQpwcmludChmcmVxdWVuY3lfbWF0cml4KQ==</text>
@@ -96,6 +96,9 @@ warnings.filterwarnings(&quot;always&quot;)</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>display</text>
       </register>
     </registers>
     <search>
